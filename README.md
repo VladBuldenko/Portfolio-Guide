@@ -1,102 +1,29 @@
-# Portfolio-Guide
+# Vladyslav Buldenko | Data Analytics Portfolio
 
-# 📊 Data Analytics Portfolio Guide
+I'm a data analyst with a background in software quality assurance. I use SQL, Python, and BI tools to explore data, validate metrics, and communicate actionable business insights.
 
-Welcome to my portfolio — feel free to explore, learn, and follow my journey into data analytics.
+**Focus:** FinTech & payments · customer analytics · data quality
 
-This repository is a structured collection of my projects, tools, and learning path, with a focus on solving real-world business problems, especially in FinTech and payments.
-
----
-
-## 📚 Table of Contents
-
-- [SQL](#sql)
-- [Python](#python)
-- [Notebooks](#notebooks)
-- [Power BI](#power-bi)
-
----
-
-## 🧠 About Me
-
-Aspiring Data Analyst with a background in QA and FinTech.  
-Focused on:
-- payments & transaction analytics  
-- risk & fraud analysis  
-- product and performance metrics  
-
-I aim to combine technical skills with business thinking to deliver clear and actionable insights.
-
----
-
-## 🐍 Python
+## Data Analytics Projects
 
 | Project | Tools | Description |
-|--------|-------|------------|
-| 🚀 [Instant Payments Simulator](./03_projects/instant_payments_simulator.md) | Python, Pandas, NumPy, Streamlit | Simulation of payment flows, fraud thresholds, and system performance |
-| 📊 [EDA Analysis](./notebooks/eda.ipynb) | Pandas, Matplotlib | Exploratory data analysis and data cleaning |
+| --- | --- | --- |
+| [Instant Payments Readiness & Impact Simulator](https://github.com/VladBuldenko/Instant_Payments_Readiness) | Python, Pandas, Streamlit | Analyzed Bundesbank payment statistics and modeled trade-offs between payment conversion, latency, fraud risk, and manual reviews. Includes a separate fraud-classification study. |
+| [E-Commerce Sales & Customer Analytics](https://github.com/VladBuldenko/E-Commerce-Sales-Customer-Analytics) | SQL, PostgreSQL | Ingested retail transaction data and developed data-quality checks for missing values, returns, and cancellations. Analytical modeling and Power BI dashboards are in progress. |
 
----
-
-## 🧮 SQL
+## Quality Engineering & Software Projects
 
 | Project | Tools | Description |
-|--------|-------|------------|
-| 🧠 [SQL Case Study](./03_projects/sql_case.md) | PostgreSQL | Business queries, KPIs, and data aggregation |
-| 📈 [Sales Analysis](./03_projects/sql_sales.md) | SQL | Revenue and customer analysis |
+| --- | --- | --- |
+| [Saleor Test Automation Framework](https://github.com/VladBuldenko/E2E-test-coverage-framework-Saleor-Quickstart) | Playwright, TypeScript, GraphQL | UI, API, and smoke testing for an e-commerce application, with a focus on reusable test architecture and reliable coverage. |
+| [Valor Finis](https://github.com/VladBuldenko/Valor_Finis) | Python, FastAPI, PostgreSQL, React Native | An ongoing personal-finance application covering transactions, budgets, savings goals, and spending analytics. |
 
----
+## Skills
 
-## 📓 Notebooks
+- **Analytics:** SQL (PostgreSQL), Python (Pandas, NumPy), Power BI, Excel
+- **Quality:** Playwright, Cypress, Postman, API testing
+- **Engineering:** Git, Docker, GitHub Actions
 
-| Project | Tools | Description |
-|--------|-------|------------|
-| 📊 [EDA Notebook](./notebooks/eda.ipynb) | Pandas | Data exploration and visualization |
-| 🔍 [Data Cleaning](./notebooks/data_cleaning.ipynb) | Python | Handling missing data and transformations |
+## Contact
 
----
-
-## 📊 Power BI
-
-| Project | Tools | Description |
-|--------|-------|------------|
-| 📈 [Business Dashboard](./powerbi/dashboard.pbix) | Power BI | KPI dashboard and business insights |
-| 💰 [Finance Dashboard](./powerbi/finance.pbix) | Power BI | Revenue and cost analysis |
-
----
-
-## 🚀 Featured Project
-
-### Instant Payments Readiness & Impact Simulator
-
-**Goal:**  
-Simulate how fraud thresholds and verification checks impact:
-- success rate  
-- latency  
-- manual reviews  
-
-**Tech stack:**  
-Python, Pandas, NumPy, Streamlit  
-
-➡️ [View full project](./03_projects/instant_payments_simulator.md)
-
----
-
-## 🛠 Tools & Technologies
-
-- SQL (PostgreSQL)  
-- Python (Pandas, NumPy, Matplotlib)  
-- Power BI  
-- Streamlit  
-- Git & GitHub  
-
----
-
-## 📌 Learning Philosophy
-
-- Focus on real business problems  
-- Keep analysis simple and explainable  
-- Build end-to-end projects  
-- Communicate insights clearly  
-
----
+[LinkedIn](https://www.linkedin.com/in/vladyslav-buldenko-4b2069182/) · [GitHub](https://github.com/VladBuldenko)
