@@ -1,22 +1,22 @@
 # Hi, I'm Vladyslav 👋
 
-**Data Analyst | SQL · Python · Power BI | QA Background**
+**QA Engineer | Test Automation | Playwright · TypeScript · API Testing**
 
-I have 3+ years of experience in software quality assurance and a growing focus on data analytics, particularly in FinTech and payments. I combine analytical thinking with a strong approach to data quality, validation, and clear reporting.
+I'm a QA Engineer with 3+ years of experience in software quality assurance. I focus on functional testing, API validation, and building maintainable automated tests that support reliable software delivery.
 
-### Projects
+### Featured Projects
 
-Explore my [data analytics portfolio](https://github.com/VladBuldenko/Portfolio-Guide), including:
+- [Saleor Test Automation](https://github.com/VladBuldenko/E2E-test-coverage-framework-Saleor-Quickstart) — Playwright and TypeScript, GraphQL API tests, fixtures, and test data builders.
+- [QualityForge](https://github.com/VladBuldenko/qualityforge) — in-progress FinTech/e-commerce test environment with API smoke checks.
+- [Valor Finis](https://github.com/VladBuldenko/Valor_Finis) — finance application with pytest integration testing and GitHub Actions.
 
-- [Instant Payments Readiness & Impact Simulator](https://github.com/VladBuldenko/Instant_Payments_Readiness) — payment analytics, simulation, and fraud modeling.
-- [E-Commerce Sales & Customer Analytics](https://github.com/VladBuldenko/E-Commerce-Sales-Customer-Analytics) — SQL, transaction data quality, and customer analytics.
-- [Saleor Test Automation Framework](https://github.com/VladBuldenko/E2E-test-coverage-framework-Saleor-Quickstart) — UI and API automation with Playwright.
+Explore my [QA & Test Automation Portfolio](https://github.com/VladBuldenko/Portfolio-Guide).
 
 ### Tools
 
-- **Analytics:** SQL, PostgreSQL, Python (Pandas), Power BI, Excel
-- **Quality Engineering:** Playwright, Cypress, Postman
-- **Development:** Git, Docker, GitHub Actions
+- **Testing:** Playwright, Cypress, Postman, REST & GraphQL APIs
+- **Languages & Data:** TypeScript, JavaScript, Python, SQL, PostgreSQL
+- **Workflow:** Git, Docker, GitHub Actions, Jira, TestRail, Qase
 
 ### Connect
 
