@@ -1,28 +1,31 @@
-# Vladyslav Buldenko | Data Analytics Portfolio
+# Vladyslav Buldenko | QA & Test Automation Portfolio
 
-I'm a data analyst with a background in software quality assurance. I use SQL, Python, and BI tools to explore data, validate metrics, and communicate actionable business insights.
+QA Engineer with 3+ years of experience in software quality assurance. I focus on functional testing, API validation, and building reliable automated checks for web and FinTech products.
 
-**Focus:** FinTech & payments · customer analytics · data quality
+**Focus:** Manual QA · Test Automation · API & E2E Testing · Quality Engineering
 
-## Data Analytics Projects
+## Test Automation & Quality Engineering
 
-| Project | Tools | Description |
+| Project | Tools | What it demonstrates |
 | --- | --- | --- |
-| [Instant Payments Readiness & Impact Simulator](https://github.com/VladBuldenko/Instant_Payments_Readiness) | Python, Pandas, Streamlit | Analyzed Bundesbank payment statistics and modeled trade-offs between payment conversion, latency, fraud risk, and manual reviews. Includes a separate fraud-classification study. |
-| [E-Commerce Sales & Customer Analytics](https://github.com/VladBuldenko/E-Commerce-Sales-Customer-Analytics) | SQL, PostgreSQL | Ingested retail transaction data and developed data-quality checks for missing values, returns, and cancellations. Analytical modeling and Power BI dashboards are in progress. |
+| [Saleor Test Automation](https://github.com/VladBuldenko/E2E-test-coverage-framework-Saleor-Quickstart) | Playwright, TypeScript, GraphQL, Faker | Implemented API tests for products and categories using reusable API clients, fixtures, and test data builders. UI automation is a planned extension. |
+| [QualityForge / WalletShop](https://github.com/VladBuldenko/qualityforge) | TypeScript, Node.js, PostgreSQL, Docker | Developing a FinTech/e-commerce demo application for practicing end-to-end quality engineering. Includes API smoke tests; the Playwright automation framework is a work in progress. |
+| [Valor Finis](https://github.com/VladBuldenko/Valor_Finis) | Python, pytest, FastAPI, PostgreSQL, GitHub Actions | Personal-finance application with automated backend tests covering authentication, financial transactions, ownership rules, and ledger behavior. Demonstrates integration testing and CI. |
 
-## Quality Engineering & Software Projects
+## Test Documentation
 
-| Project | Tools | Description |
-| --- | --- | --- |
-| [Saleor Test Automation Framework](https://github.com/VladBuldenko/E2E-test-coverage-framework-Saleor-Quickstart) | Playwright, TypeScript, GraphQL | UI, API, and smoke testing for an e-commerce application, with a focus on reusable test architecture and reliable coverage. |
-| [Valor Finis](https://github.com/VladBuldenko/Valor_Finis) | Python, FastAPI, PostgreSQL, React Native | An ongoing personal-finance application covering transactions, budgets, savings goals, and spending analytics. |
+Examples from the Saleor automation project:
+
+- [Test Strategy](https://github.com/VladBuldenko/E2E-test-coverage-framework-Saleor-Quickstart/blob/main/docs/test-strategy.md) — architecture, test data management, and automation guidelines.
+- [Test Plan](https://github.com/VladBuldenko/E2E-test-coverage-framework-Saleor-Quickstart/blob/main/docs/test-plan.md) — scope and testing approach.
+- [Test Coverage Matrix](https://github.com/VladBuldenko/E2E-test-coverage-framework-Saleor-Quickstart/blob/main/docs/test-coverage.md) — tracked coverage scenarios; checkboxes are not evidence of executed tests.
 
 ## Skills
 
-- **Analytics:** SQL (PostgreSQL), Python (Pandas, NumPy), Power BI, Excel
-- **Quality:** Playwright, Cypress, Postman, API testing
-- **Engineering:** Git, Docker, GitHub Actions
+- **Manual QA:** Functional, regression, smoke, and exploratory testing; test cases and bug reporting.
+- **Automation:** Playwright, TypeScript, Cypress, JavaScript.
+- **API & Data:** Postman, REST, GraphQL, SQL, PostgreSQL.
+- **Workflow & CI/CD:** Jira, TestRail, Qase, Git, Docker, GitHub Actions, Jenkins.
 
 ## Contact
 
