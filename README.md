@@ -1,102 +1,32 @@
-# Portfolio-Guide
+# Vladyslav Buldenko | QA & Test Automation Portfolio
 
-# 📊 Data Analytics Portfolio Guide
+QA Engineer with 3+ years of experience in software quality assurance. I focus on functional testing, API validation, and building reliable automated checks for web and FinTech products.
 
-Welcome to my portfolio — feel free to explore, learn, and follow my journey into data analytics.
+**Focus:** Manual QA · Test Automation · API & E2E Testing · Quality Engineering
 
-This repository is a structured collection of my projects, tools, and learning path, with a focus on solving real-world business problems, especially in FinTech and payments.
+## Test Automation & Quality Engineering
 
----
+| Project | Tools | What it demonstrates |
+| --- | --- | --- |
+| [Saleor Test Automation](https://github.com/VladBuldenko/E2E-test-coverage-framework-Saleor-Quickstart) | Playwright, TypeScript, GraphQL, Faker | Implemented API tests for products and categories using reusable API clients, fixtures, and test data builders. UI automation is a planned extension. |
+| [QualityForge / WalletShop](https://github.com/VladBuldenko/qualityforge) | TypeScript, Node.js, PostgreSQL, Docker | Developing a FinTech/e-commerce demo application for practicing end-to-end quality engineering. Includes API smoke tests; the Playwright automation framework is a work in progress. |
+| [Valor Finis](https://github.com/VladBuldenko/Valor_Finis) | Python, pytest, FastAPI, PostgreSQL, GitHub Actions | Personal-finance application with automated backend tests covering authentication, financial transactions, ownership rules, and ledger behavior. Demonstrates integration testing and CI. |
 
-## 📚 Table of Contents
+## Test Documentation
 
-- [SQL](#sql)
-- [Python](#python)
-- [Notebooks](#notebooks)
-- [Power BI](#power-bi)
+Examples from the Saleor automation project:
 
----
+- [Test Strategy](https://github.com/VladBuldenko/E2E-test-coverage-framework-Saleor-Quickstart/blob/main/docs/test-strategy.md) — architecture, test data management, and automation guidelines.
+- [Test Plan](https://github.com/VladBuldenko/E2E-test-coverage-framework-Saleor-Quickstart/blob/main/docs/test-plan.md) — scope and testing approach.
+- [Test Coverage Matrix](https://github.com/VladBuldenko/E2E-test-coverage-framework-Saleor-Quickstart/blob/main/docs/test-coverage.md) — tracked coverage scenarios; checkboxes are not evidence of executed tests.
 
-## 🧠 About Me
+## Skills
 
-Aspiring Data Analyst with a background in QA and FinTech.  
-Focused on:
-- payments & transaction analytics  
-- risk & fraud analysis  
-- product and performance metrics  
+- **Manual QA:** Functional, regression, smoke, and exploratory testing; test cases and bug reporting.
+- **Automation:** Playwright, TypeScript, Cypress, JavaScript.
+- **API & Data:** Postman, REST, GraphQL, SQL, PostgreSQL.
+- **Workflow & CI/CD:** Jira, TestRail, Qase, Git, Docker, GitHub Actions, Jenkins.
 
-I aim to combine technical skills with business thinking to deliver clear and actionable insights.
+## Contact
 
----
-
-## 🐍 Python
-
-| Project | Tools | Description |
-|--------|-------|------------|
-| 🚀 [Instant Payments Simulator](./03_projects/instant_payments_simulator.md) | Python, Pandas, NumPy, Streamlit | Simulation of payment flows, fraud thresholds, and system performance |
-| 📊 [EDA Analysis](./notebooks/eda.ipynb) | Pandas, Matplotlib | Exploratory data analysis and data cleaning |
-
----
-
-## 🧮 SQL
-
-| Project | Tools | Description |
-|--------|-------|------------|
-| 🧠 [SQL Case Study](./03_projects/sql_case.md) | PostgreSQL | Business queries, KPIs, and data aggregation |
-| 📈 [Sales Analysis](./03_projects/sql_sales.md) | SQL | Revenue and customer analysis |
-
----
-
-## 📓 Notebooks
-
-| Project | Tools | Description |
-|--------|-------|------------|
-| 📊 [EDA Notebook](./notebooks/eda.ipynb) | Pandas | Data exploration and visualization |
-| 🔍 [Data Cleaning](./notebooks/data_cleaning.ipynb) | Python | Handling missing data and transformations |
-
----
-
-## 📊 Power BI
-
-| Project | Tools | Description |
-|--------|-------|------------|
-| 📈 [Business Dashboard](./powerbi/dashboard.pbix) | Power BI | KPI dashboard and business insights |
-| 💰 [Finance Dashboard](./powerbi/finance.pbix) | Power BI | Revenue and cost analysis |
-
----
-
-## 🚀 Featured Project
-
-### Instant Payments Readiness & Impact Simulator
-
-**Goal:**  
-Simulate how fraud thresholds and verification checks impact:
-- success rate  
-- latency  
-- manual reviews  
-
-**Tech stack:**  
-Python, Pandas, NumPy, Streamlit  
-
-➡️ [View full project](./03_projects/instant_payments_simulator.md)
-
----
-
-## 🛠 Tools & Technologies
-
-- SQL (PostgreSQL)  
-- Python (Pandas, NumPy, Matplotlib)  
-- Power BI  
-- Streamlit  
-- Git & GitHub  
-
----
-
-## 📌 Learning Philosophy
-
-- Focus on real business problems  
-- Keep analysis simple and explainable  
-- Build end-to-end projects  
-- Communicate insights clearly  
-
----
+[LinkedIn](https://www.linkedin.com/in/vladyslav-buldenko-4b2069182/) · [GitHub](https://github.com/VladBuldenko)
